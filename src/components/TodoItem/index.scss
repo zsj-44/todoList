@@ -22,9 +22,14 @@
     font-size: .16rem;
   }
 
+  .Completion{
+    text-decoration: line-through;
+  }
+
   .btn-group{
     display: flex;
     flex-direction: row;
+    margin-right: .1rem;
   }
   .btn {
     margin-left: .1rem;

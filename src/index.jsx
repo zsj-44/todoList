@@ -9,7 +9,7 @@ import './assets/css/common.scss';
 import './assets/css/resets.css';
 import './assets/css/ui.css';
 import './assets/js/common.js';
-import './assets/js/fastclick.js';
+// import './assets/js/fastclick.js';
 
 ReactDOM.render(
     <App />,
